@@ -19,7 +19,7 @@ export class MerkleDistribution {
   constructor({
     tree,
     wallet,
-    contractAddress = '0x83A3D0C9c4508f1be74693f8D97478411bcc5818',
+    contractAddress = '0xE0784bD587Af36CeFfaec4e6f6D68ac0023A002C',
   }: {
     tree: Tree
     wallet: ContractRunner
